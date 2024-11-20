@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "uview-ui": "^2.0.38"
+  },
+  "devDependencies": {
+    "sass": "^1.81.0"
+  }
+}
